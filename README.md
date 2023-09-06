@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Yogeshraj13
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+PROJECT TITLE:
+Unveiling Market Insights: Analysing Spending Behaviour And Identifying Opportunities For Growth
 
-<!---
-Yogeshraj13/Yogeshraj13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+TEAM ID : NM2023TMID01493
+
+TEAM MEMBERS:
+
+TEAM MEMBER 1 : R.B.YOGESH RAJ  ( TEAM LEADER)
+TEAM MEMBER 2 : V.VINOTH
+TEAM MEMBER 3 : J.SATHISH
+TEAM MEMBER 4 : R.VENKATESAN
